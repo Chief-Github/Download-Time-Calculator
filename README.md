@@ -2,5 +2,5 @@ This is a simple command line program that lets you calculate how long it will t
 
 HOW TO USE:
 1. Install
-2. 2. Open
+2. Open
 3. Enjoy
